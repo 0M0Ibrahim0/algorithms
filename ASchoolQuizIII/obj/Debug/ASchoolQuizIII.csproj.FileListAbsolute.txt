@@ -1,0 +1,6 @@
+C:\Users\M_I\Desktop\[4] WED\PROBLEMS\SchoolQuiz III\ASchoolQuizIII\ASchoolQuizIII\bin\Debug\ASchoolQuizIII.exe.config
+C:\Users\M_I\Desktop\[4] WED\PROBLEMS\SchoolQuiz III\ASchoolQuizIII\ASchoolQuizIII\bin\Debug\ASchoolQuizIII.exe
+C:\Users\M_I\Desktop\[4] WED\PROBLEMS\SchoolQuiz III\ASchoolQuizIII\ASchoolQuizIII\bin\Debug\ASchoolQuizIII.pdb
+C:\Users\M_I\Desktop\[4] WED\PROBLEMS\SchoolQuiz III\ASchoolQuizIII\ASchoolQuizIII\obj\Debug\ASchoolQuizIII.csprojResolveAssemblyReference.cache
+C:\Users\M_I\Desktop\[4] WED\PROBLEMS\SchoolQuiz III\ASchoolQuizIII\ASchoolQuizIII\obj\Debug\ASchoolQuizIII.exe
+C:\Users\M_I\Desktop\[4] WED\PROBLEMS\SchoolQuiz III\ASchoolQuizIII\ASchoolQuizIII\obj\Debug\ASchoolQuizIII.pdb

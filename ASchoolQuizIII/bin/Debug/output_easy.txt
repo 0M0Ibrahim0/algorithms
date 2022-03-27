@@ -1,0 +1,10 @@
+case 1	yes
+case 2	yes
+case 3	no
+case 4	no
+case 5	yes
+case 6	yes
+case 7	no
+case 8	yes
+case 9	no
+case 10	no
